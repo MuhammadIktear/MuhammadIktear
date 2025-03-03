@@ -107,11 +107,6 @@
         <img alt="MuhammadIktear's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MuhammadIktear?cardType=level&theme=blueberry&preferLogin=true&hide_border=false" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/MuhammadIktear">
-        <img alt="MuhammadIktear's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIktear&theme=tokyonight&hide_border=true" height=""/>
-      </a>
-    </td>
   </tr>
 </table>
 
