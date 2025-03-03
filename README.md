@@ -1,5 +1,5 @@
-<div align="center">
-<!--   <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" />  -->
+ <div align="center">
+  <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" /> 
   <h2 align="center">Hey there 👋</h2>
 </div>
 <div align='center'>
@@ -8,7 +8,6 @@
   </a>
 </div>
 *I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
-
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently focused on improving my problem-solving and web development skills.
