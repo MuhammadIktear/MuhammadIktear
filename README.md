@@ -1,17 +1,13 @@
-<div class="banner">
-  <h2>Hey there 👋</h2>
+<div align="center">
+<!--   <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" />  -->
+  <h2 align="center">Hey there 👋</h2>
 </div>
-
-<div class="typing-container">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
-  </a>
+<div align='center'>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
 </div>
-
-<div class="content">
-<p><em>I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.</em></p>
-
-<h2>👨‍💻 About Me</h2>
+*I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
 
 ## 👨‍💻 About Me
 
