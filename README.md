@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/Iow1Wl5" alt="Muhammad Iktear Banner" width="100%" /> 
+  <img src="https://i.imgur.com/YpvXdPW_d.png?maxwidth=520&shape=thumb&fidelity=high" alt="Muhammad Iktear Banner" width="100%" /> 
   <h2 align="center">Hey there 👋</h2>
 </div>
 
