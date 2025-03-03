@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/your_banner_image.png](https://console.cloudinary.com/console/c-87882836865c88f8421ca2aa21ac2c/media_library/homepage/asset/ea4c923f60d55d6bad8ed93b82a3b5d5/manage?context=manage)" alt="Muhammad Iktear Banner" width="100%" /> 
+  <img src="https://res-console.cloudinary.com/ds97wytcs/thumbnails/v1/image/upload/v1740982272/TXVoYW1tYWRfSWt0ZWFyX2hpOHgyYg==/drilldown" alt="Muhammad Iktear Banner" width="100%" /> 
   <h2 align="center">Hey there 👋</h2>
 </div>
 
