@@ -1,16 +1,123 @@
-<div align="center">
-<!--   <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" />  -->
-  # Muhammad Iktear
-  <h2 align="center">Hey there 👋</h2>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Muhammad Iktear - GitHub Profile</title>
+<style>
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.banner {
+    background: linear-gradient(135deg, #2980b9, #6dd5fa);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.banner h2 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.typing-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.typing-container img {
+    max-width: 100%;
+}
+
+.content {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.content h2, .content h3 {
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+.content ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.content th, .content td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.content th {
+    background-color: #f2f2f2;
+}
+
+.content img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}
+
+.badges {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.badges img {
+    margin: 5px;
+}
+
+.visitor-count {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.dedication {
+    text-align: center;
+    margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="banner">
+  <h2>Hey there 👋</h2>
 </div>
 
-<div align='center'>
+<div class="typing-container">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
-*I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
+<div class="content">
+<p><em>I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.</em></p>
+
+<h2>👨‍💻 About Me</h2>
 
 ## 👨‍💻 About Me
 
