@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" />  -->
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/482NW75" data-context="false" ><a href="//imgur.com/a/482NW75"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  # Muhammad Iktear
   <h2 align="center">Hey there 👋</h2>
 </div>
 
