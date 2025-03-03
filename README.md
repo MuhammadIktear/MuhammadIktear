@@ -1,21 +1,5 @@
 <div align="center">
-<!--   <img src="https://www.canva.com/design/DAGgpQNP_bw/sJVS4arGsGytgjdbZ0sV8g/view" alt="Muhammad Iktear Banner" width="100%" />  -->
-  <div style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGgpQNP_bw/sJVS4arGsGytgjdbZ0sV8g/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGgpQNP_bw&#x2F;sJVS4arGsGytgjdbZ0sV8g&#x2F;view?utm_content=DAGgpQNP_bw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Muhammad Iktear</a> by Muhammad Iktear
-  <h2 align="center">Hey there 👋</h2>
-</div>
-
-<div align='center'>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://www.canva.com/design/DAGgpQNP_bw/sJVS4arGsGytgjdbZ0sV8g/view?embed" alt="Muhammad Iktear Banner" width="100%" /> 
 
 *I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
 
