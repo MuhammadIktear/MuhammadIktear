@@ -236,3 +236,4 @@ body {
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
 
 - 🥅 Goals: To become a highly skilled software developer and competitive programmer, contributing to meaningful projects and continuously learning.
+<html>
