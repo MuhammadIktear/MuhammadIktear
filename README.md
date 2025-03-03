@@ -1,70 +1,14 @@
- <div align="center">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Banner</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        .banner {
-            background: linear-gradient(135deg, #32B6FF, #1A75FF);
-            color: white;
-            padding: 50px;
-            border-radius: 15px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-            animation: fadeIn 2s ease-in-out;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .typing-text {
-            font-size: 22px;
-            font-weight: bold;
-            color: #333;
-            margin-top: 20px;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 3px solid #333;
-            width: 0;
-            animation: typing 3s steps(40, end) forwards, blink 0.75s step-end infinite;
-        }
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
-        @keyframes blink {
-            50% { border-color: transparent; }
-        }
-    </style>
-</head>
-<body>
-    <div class="banner">
-        <h1>Welcome to My Portfolio</h1>
-        <h2>Hey there 👋</h2>
-    </div>
-
-    <div class="typing-text">
-        Competitive Programmer | Django Backend Developer | Web Developer | Problem Solver
-    </div>
-</body>
-</html>
-
-  <h2 align="center">Hey there 👋</h2>
+<div align="center">
+<!--   <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" />  -->
+  <h2 align="center">Hello, I'm Muhammad Iktear👋</h2>
 </div>
 <div align='center'>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
-I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.
+
+*I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
 
 ## 👨‍💻 About Me
 
