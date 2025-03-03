@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res-console.cloudinary.com/ds97wytcs/thumbnails/v1/image/upload/v1740982272/TXVoYW1tYWRfSWt0ZWFyX2hpOHgyYg==/drilldown" alt="Muhammad Iktear Banner" width="100%" /> 
+  <img src="https://res-console.cloudinary.com/ds97wytcs/thumbnails/v1/image/upload/v1740982272/TXVoYW1tYWRfSWt0ZWFyX2hpOHgyYg==/as_is" alt="Muhammad Iktear Banner" width="100%" /> 
   <h2 align="center">Hey there 👋</h2>
 </div>
 
