@@ -1,81 +1,123 @@
-# Muhammad Iktear
+<div align="center">
+  <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" /> 
+  <h2 align="center">Hey there 👋</h2>
+</div>
 
-## About Me
+<div align='center'>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
-I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.
+*I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
 
-## Skills
+## 👨‍💻 About Me
 
-- **Languages:** C, C++, Python, HTML, CSS, JavaScript, Java
-- **Databases:** MySQL, SQLite
-- **Frameworks & Libraries:** Django, Django REST Framework, Bootstrap
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), REST APIs, Problem-Solving
+- 🔭 I’m currently focused on improving my problem-solving and web development skills.
+- 🌱 I’m learning more about advanced algorithms, data structures, and Django features.
+- 👯 I’m looking to collaborate on open-source projects related to web development and competitive programming.
+- 💬 Ask me about competitive programming, Django, REST APIs, and web development.
+- 📫 How to reach me: [iktear500@gmail.com](mailto:iktear500@gmail.com)
+- ⚡ Fun fact: I enjoy participating in programming contests and solving challenging problems.
 
-## Competitive Programming
+## 🔹 Tech Stack
 
-Solved 1000+ problems on topics including Mathematics, Greedy, Linked List, Stack, Queue, Tree, Graph, Dynamic Programming, and Backtracking using C++ across various online judges. Participated in 50+ programming contests, honing problem-solving skills in competitive environments.
+| **Languages** | **Frontend** | **Backend** | **Database** |
+|---------------------------|--------------|-------------|--------------|
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="databases-icons" style="width: 100%;"/> |
 
-- **Codeforces:** [Profile Link](https://codeforces.com/profile/your_profile)
-  - Max-Ratting: 1185
-  - Solved Problem: 550+
-- **LeetCode:** [Profile Link](https://leetcode.com/your_profile/)
-  - Solved Problem: 220+
-- **CodeChef:** [Profile Link](https://www.codechef.com/users/your_profile)
-  - Max-Ratting: 1471 (2 star)
+## 🔹 Tools I Use
 
-## Achievements & Competitions
+| **Tools** |
+|-----------|
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools-icons" style="width: 100%;"/> |
 
-- Champion - DIU Spring Fest Programming Contest 2024 | Team: Segmentation_fault
-- UIU IUPC 2025 Onsite - Rank 60 out of 160 teams | Team: DIU_CodeCrew
-- KUET IUPC 2025 Onsite Rank 124 out of 160 teams | Team: DIU_CodeCrew
-- AUST IUPC 2025 Onsite - Rank 102 out of 130 teams | Team: DIU_CodeCrew
-- ICPC Preliminary Dhaka Site 2024 Mock - Rank 220 out of 2488 teams | Team: DIU_CodeCrew
-- ICPC Preliminary Dhaka Site 2024 - Rank 538 out of 2600 teams | Team: DIU_CodeCrew
-- YCPC Grand Final 2025 Rank 23 out of 257 (Solo Contest)
-- Runners-up - DIU Fall Fest Project Showcasing 2024
-- Participant WebXtreme Hackathon NSU tech fest 2025 | Team: PhiPy
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
-## Projects
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <table width="100%">
+        <tr>
+          <th align="left">Platform</th>
+          <th align="left">Profile Link</th>
+          <th align="center">Image</th>
+        </tr>
+        <tr>
+          <td>Codeforces</td>
+          <td><a href="https://codeforces.com/profile/your_profile">Profile</a></td>
+          <td align="center">
+            <a href="https://codeforces.com/profile/your_profile">
+              <img src="https://i.imgur.com/codeforces_icon.png" alt="Codeforces" width="24" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>LeetCode</td>
+          <td><a href="https://leetcode.com/your_profile/">Profile</a></td>
+          <td align="center">
+            <a href="https://leetcode.com/your_profile/">
+              <img src="https://i.imgur.com/leetcode_icon.png" alt="LeetCode" width="24" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>CodeChef</td>
+          <td><a href="https://www.codechef.com/users/your_profile">Profile</a></td>
+          <td align="center">
+            <a href="https://www.codechef.com/users/your_profile">
+              <img src="https://i.imgur.com/codechef_icon.png" alt="CodeChef" width="24" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-1. **Phibook (Social Media website)**
-   - GitHub: [Link to GitHub Repository](https://github.com/your_repo)
-   - Live: [Link to Live Website](https://your_website.com)
-   - Description: Phibook is a social media platform enabling users to create, manage, and interact with posts via text, images, and videos. Features include likes, comments, follows, profile management, and secure password updates.
-   - Technology used:
-     - Frontend: HTML, CSS, JavaScript
-     - Backend: Django, Django REST Framework
-     - Database: SQLite (Django default)
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-2. **Picku (Pet Adoption Website)**
-   - GitHub: [Link to GitHub Repository](https://github.com/your_repo)
-   - Live: [Link to Live Website](https://your_website.com)
-   - Description: Picku is a pet adoption platform that connects pets with loving homes. Users can browse, list, and manage pets, leave reviews, update profiles, and securely change passwords for a seamless adoption experience.
-   - Technology used:
-     - Frontend: HTML, CSS, JavaScript, Bootstrap 5
-     - Backend: Django, Django REST Framework
-     - Database: SQLite (Django default)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadIktear&theme=blueberry" height="270px" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIktear&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="270px" width="100%">
+    </td>
+  </tr>
+</table>
 
-   For both projects, you can sign up or log in with the default credentials:
-   - Username: Iktear500
-   - Password: iktear@123
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="">
+        <img alt="MuhammadIktear's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MuhammadIktear?cardType=level&theme=blueberry&preferLogin=true&hide_border=false" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MuhammadIktear">
+        <img alt="MuhammadIktear's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIktear&theme=tokyonight&hide_border=true" height=""/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Education
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=MuhammadIktear&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="MuhammadIktear" />
+    </a>
+  </p>
+</details>
 
-- **Dhaka International University**
-  - B.Sc (Hons) in CSE
-  - 9th Semester (Tri-semester) Ongoing
-  - Current CGPA: 3.30
-- **Govt. Swarupkathi College**
-  - HSC (Science)
-  - GPA: 5.00
-  - Passing Year: 2020
-- **Swarupkathi Collegiate Academy**
-  - SSC (Science)
-  - GPA: 4.39
-  - Passing Year: 2018
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your_facebook_profile) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktear500@gmail.com)
 
-## Contact
+<div align="center">
+  <p>Visitor count</p>
+  ![Visitor Count](https://profile-counter.glitch.me/{MuhammadIktear}/count.svg)
+</div>
 
-- **Email:** iktear500@gmail.com
-- **Phone:** +880187-3381172
-- **Location:** Dhaka, Bangladesh
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
+
+- 🥅 Goals: To become a highly skilled software developer and competitive programmer, contributing to meaningful projects and continuously learning.
