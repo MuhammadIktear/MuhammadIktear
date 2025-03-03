@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGgpQNP_bw/sJVS4arGsGytgjdbZ0sV8g/view?embed" alt="Muhammad Iktear Banner" width="100%" /> 
+<!--   <img src="https://i.imgur.com/your_banner_image.png" alt="Muhammad Iktear Banner" width="100%" />  -->
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/482NW75" data-context="false" ><a href="//imgur.com/a/482NW75"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <h2 align="center">Hey there 👋</h2>
+</div>
+
+<div align='center'>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=350&lines=Competitive+Programmer;Django+Backend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
 *I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
 
