@@ -20,6 +20,18 @@
 - 📫 How to reach me: [iktear500@gmail.com](mailto:iktear500@gmail.com)
 - ⚡ Fun fact: I enjoy participating in programming contests and solving challenging problems.
 
+## 🏆 Achievements & Competitions 
+
+- **Champion** - DIU Spring Fest Programming Contest 2024 | Team: Segmentation_fault
+- **UIU IUPC 2025 Onsite** - Rank 60 out of 160 teams | Team: DIU_CodeCrew
+- **KUET IUPC 2025 Onsite** - Rank 124 out of 160 teams | Team: DIU_CodeCrew
+- **AUST IUPC 2025 Onsite** - Rank 102 out of 130 teams | Team: DIU_CodeCrew
+- **ICPC Preliminary Dhaka Site 2024 Mock** - Rank 220 out of 2488 teams | Team: DIU_CodeCrew
+- **ICPC Preliminary Dhaka Site 2024** - Rank 538 out of 2600 teams | Team: DIU_CodeCrew
+- **YCPC Grand Final 2025** - Rank 23 out of 257 (Solo Contest)
+- **Runners-up** - DIU Fall Fest Project Showcasing 2024
+- **Participant** - WebXtreme Hackathon NSU tech fest 2025 | Team: PhiPy
+
 ## 🔹 Tech Stack
 
 | **Languages** | **Frontend** | **Backend** | **Database** |
@@ -111,7 +123,7 @@
   </p>
 </details>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your_facebook_profile) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktear500@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.iktear.52/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iktear-5621b6218/) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktear500@gmail.com)
 
 <div align="center">
   <p>Visitor count</p>
