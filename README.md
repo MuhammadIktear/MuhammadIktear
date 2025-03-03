@@ -60,14 +60,14 @@
           <td>Codeforces</td>
           <td><a href="https://codeforces.com/profile/Iktear">Profile</a></td>
           <td align="center">
-            <a href="https://codeforces.com/profile/your_profile">
+            <a href="https://codeforces.com/profile/Iktear">
               <img src="https://i.ibb.co/bmz0Z6C/Untitled-design-removebg-preview.png" alt="Codeforces" width="24" />
             </a>
           </td>
         </tr>
         <tr>
           <td>LeetCode</td>
-          <td><a href="https://leetcode.com/your_profile/">Profile</a></td>
+          <td><a href="https://leetcode.com/u/iktear500/">Profile</a></td>
           <td align="center">
             <a href="https://leetcode.com/u/iktear500/">
               <img src="https://i.ibb.co/PrNnHzz/Untitled-design-2-removebg-preview.png" alt="LeetCode" width="24" />
@@ -78,7 +78,7 @@
           <td>CodeChef</td>
           <td><a href="https://www.codechef.com/users/iktear1">Profile</a></td>
           <td align="center">
-            <a href="https://www.codechef.com/users/your_profile">
+            <a href="https://www.codechef.com/users/iktear1">
               <img src="https://i.ibb.co/bbWxB0s/Untitled-design-4-removebg-preview.png" alt="CodeChef" width="24" />
             </a>
           </td>
