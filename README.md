@@ -32,6 +32,7 @@
 - **YCPC Grand Final 2025** - Rank 23 out of 257 (Solo Contest)
 - **Runners-up** - DIU Fall Fest Project Showcasing 2024
 - **Participant** - WebXtreme Hackathon NSU tech fest 2025 | Team: PhiPy
+- **Participant** - MIST Hackathon 2025 | Team: PhiPy
 
 ## 🔹 Tech Stack
 
