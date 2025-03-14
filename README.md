@@ -123,8 +123,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.iktear.52/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iktear-5621b6218/) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktear500@gmail.com)
 
 <div align="center">
-  <p>Visitor count</p>
-  ![Visitor Count](https://profile-counter.glitch.me/{MuhammadIktear}/count.svg)
+  <p>Resume : https://drive.google.com/file/d/1RvD-jeJ_ePUgcYawN4wnsMVvqIJViqeP/view?usp=sharing</p>
 </div>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
