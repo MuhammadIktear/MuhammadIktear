@@ -33,36 +33,6 @@
 ### **Soft Skills**
 - Communication, Team Collaboration, Client Meetings, Critical Thinking, Problem-Solving
 
-## 🚀 Featured Projects
-
-### 1. **AI-Powered Job Portal**
-**Tech:** Django, DRF, JWT, Google Gemini (LLM), OpenRouter API, Scikit-learn, NLP, PDF Parsing (PyMuPDF)
-- AI-based skill extraction from resumes and job descriptions
-- Smart job recommendations and AI-powered career advice
-- Chatbot integration and secure user authentication
-- [GitHub](https://github.com/MuhammadIktear/AI-Job-Portal) | [Live Demo](your-live-link)
-
-### 2. **Light Pollution Visualizer**
-**Tech:** Django, DRF, PostgreSQL, PostGIS, GDAL, GeoPandas, Rasterio, Scikit-learn, JavaScript, Leaflet.js
-- Engineered data pipeline to process NASA Black Marble satellite data (HDF5/GeoTIFF)
-- High-performance REST API serving optimized GeoJSON for interactive choropleth maps
-- Linear Regression model to forecast future light pollution trends
-- [GitHub](https://github.com/MuhammadIktear/Light-Pollution-Visualizer) | [Live Demo](your-live-link)
-
-### 3. **Phibook (Social Media Platform)**
-**Tech:** HTML, CSS, JavaScript, Django, DRF, SQLite
-- Full-featured social media platform with text, image, and video posts
-- User profiles, authentication, follow/unfollow system
-- Community interaction with likes and comments
-- [GitHub](https://github.com/MuhammadIktear/Phibook) | [Live Demo](your-live-link)
-
-### 4. **Picku (Pet Adoption Platform)**
-**Tech:** HTML, CSS, JS, Bootstrap 5, Django, DRF, SQLite
-- Browse, filter, and adopt pets with adoption reviews
-- Manage pet listings and user profiles with secure updates
-- Intuitive interface for pet discovery
-- [GitHub](https://github.com/MuhammadIktear/Picku) | [Live Demo](your-live-link)
-
 ## 💼 Professional Experience
 
 ### **Backend Developer - Join Venture AI (JVAI)** *(April 2025 - January 2026)*
