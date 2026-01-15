@@ -9,36 +9,97 @@
   </a>
 </div>
 
-*I am a competitive programmer passionate about enhancing problem-solving skills with Data Structures and Algorithms (DSA), while also growing as a software developer with expertise in Django backend and web development, aiming to become a versatile and adaptive developer.*
-
+*Backend-focused Software Developer with experience building scalable, high-performance backend systems and distributed services. Proficient in designing RESTful APIs, developing cloud-native applications, and deploying production systems.*
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently focused on improving my problem-solving and web development skills.
-- 🌱 I’m learning more about advanced algorithms, data structures, and Django features.
-- 👯 I’m looking to collaborate on open-source projects related to web development and competitive programming.
-- 💬 Ask me about competitive programming, Django, REST APIs, and web development.
+- 🔭 Currently working as Backend Developer at Join Venture AI (JVAI)
+- 🌱 Learning advanced system design, cloud architecture, and distributed systems
+- 👯 Looking to collaborate on open-source projects and innovative backend solutions
+- 💬 Ask me about Django, REST APIs, System Design, Competitive Programming
 - 📫 How to reach me: [iktear500@gmail.com](mailto:iktear500@gmail.com)
-- ⚡ Fun fact: I enjoy participating in programming contests and solving challenging problems.
+- ⚡ Fun fact: I've solved 1000+ competitive programming problems across various platforms
 
-## 🏆 Achievements & Competitions 
+## 🛠️ Skills & Expertise
 
+### **Technical Skills**
+- **Languages:** Python, C++, JavaScript, C
+- **Backend Frameworks:** Django, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+- **DevOps & Cloud:** Docker, CI/CD Pipelines, AWS (IAM, VPC, EC2, S3, RDS, ELB, Lambda), VPS, Nginx
+- **Tools & Libraries:** Celery, Web Scrapy, Stripe, Twilio, ElevenLabs, Postman, Django Unfold
+- **Concepts:** System Design, REST APIs, Real-time Systems, SDLC, OOP, Networking, NLP
+
+### **Soft Skills**
+- Communication, Team Collaboration, Client Meetings, Critical Thinking, Problem-Solving
+
+## 🚀 Featured Projects
+
+### 1. **AI-Powered Job Portal**
+**Tech:** Django, DRF, JWT, Google Gemini (LLM), OpenRouter API, Scikit-learn, NLP, PDF Parsing (PyMuPDF)
+- AI-based skill extraction from resumes and job descriptions
+- Smart job recommendations and AI-powered career advice
+- Chatbot integration and secure user authentication
+- [GitHub](https://github.com/MuhammadIktear/AI-Job-Portal) | [Live Demo](your-live-link)
+
+### 2. **Light Pollution Visualizer**
+**Tech:** Django, DRF, PostgreSQL, PostGIS, GDAL, GeoPandas, Rasterio, Scikit-learn, JavaScript, Leaflet.js
+- Engineered data pipeline to process NASA Black Marble satellite data (HDF5/GeoTIFF)
+- High-performance REST API serving optimized GeoJSON for interactive choropleth maps
+- Linear Regression model to forecast future light pollution trends
+- [GitHub](https://github.com/MuhammadIktear/Light-Pollution-Visualizer) | [Live Demo](your-live-link)
+
+### 3. **Phibook (Social Media Platform)**
+**Tech:** HTML, CSS, JavaScript, Django, DRF, SQLite
+- Full-featured social media platform with text, image, and video posts
+- User profiles, authentication, follow/unfollow system
+- Community interaction with likes and comments
+- [GitHub](https://github.com/MuhammadIktear/Phibook) | [Live Demo](your-live-link)
+
+### 4. **Picku (Pet Adoption Platform)**
+**Tech:** HTML, CSS, JS, Bootstrap 5, Django, DRF, SQLite
+- Browse, filter, and adopt pets with adoption reviews
+- Manage pet listings and user profiles with secure updates
+- Intuitive interface for pet discovery
+- [GitHub](https://github.com/MuhammadIktear/Picku) | [Live Demo](your-live-link)
+
+## 💼 Professional Experience
+
+### **Backend Developer - Join Venture AI (JVAI)** *(April 2025 - January 2026)*
+- Developed and deployed backend systems using Django REST Framework
+- Implemented CI/CD pipelines with Docker, GitHub Actions, and VPS hosting
+- Integrated third-party APIs, real-time features (Channels, Redis), and Stripe payments
+- Managed server deployments, Linux configuration, and database recovery
+- Participated in team meetings, client discussions, and sprint planning
+
+## 🏆 Achievements & Competitions
+
+### **Competitions**
 - **Champion** - DIU Spring Fest Programming Contest 2024 | Team: Segmentation_fault
-- **UIU IUPC 2025 Onsite** - Rank 60 out of 160 teams | Team: DIU_CodeCrew
-- **KUET IUPC 2025 Onsite** - Rank 124 out of 160 teams | Team: DIU_CodeCrew
-- **AUST IUPC 2025 Onsite** - Rank 102 out of 130 teams | Team: DIU_CodeCrew
-- **ICPC Preliminary Dhaka Site 2024 Mock** - Rank 220 out of 2488 teams | Team: DIU_CodeCrew
-- **ICPC Preliminary Dhaka Site 2024** - Rank 538 out of 2600 teams | Team: DIU_CodeCrew
-- **YCPC Grand Final 2025** - Rank 23 out of 257 (Solo Contest)
 - **Runners-up** - DIU Fall Fest Project Showcasing 2024
-- **Participant** - WebXtreme Hackathon NSU tech fest 2025 | Team: PhiPy
-- **Participant** - MIST Hackathon 2025 | Team: PhiPy
+- **YCPC Grand Final 2025** - Rank 23 / 257 (Solo)
+- **ICPC Dhaka Regional 2025** - Rank 207 / 313 | Team: DIU_Infinity
+- **ICPC Preliminary Dhaka 2024** - Rank 538 / 2600 | Team: DIU_CodeCrew
+- **IUPC 2025** - Multiple onsite participations with teams DIU_CodeCrew & DIU_Infinity
+- **NSU Tech Fest Hackathon 2025** | Team: PhilPy
+- **MIST Hackathon 2025** | Team: PhilPy
+
+### **Competitive Programming**
+- **Solved 1000+ problems** across Mathematics, Greedy, Linked List, Stack, Queue, Tree, Graph, Dynamic Programming, Backtracking
+- **Participated in 70+ programming contests**
+- **Codeforces:** Max Rating: 1183 | Solved: 650+
+- **CodeChef:** Max Rating: 1471 (2 Star)
+- **LeetCode:** Solved: 220+
+
+## 🎓 Education
+**B.Sc in Computer Science & Engineering**  
+Dhaka International University | Final Semester | CGPA: 3.35/4.00
 
 ## 🔹 Tech Stack
 
-| **Languages** | **Frontend** | **Backend** | **Database** |
-|---------------------------|--------------|-------------|--------------|
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="databases-icons" style="width: 100%;"/> |
+| **Languages** | **Frontend** | **Backend** | **Database** | **DevOps & Cloud** |
+|---------------|--------------|-------------|--------------|-------------------|
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="languages-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="frontend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=django" alt="backend-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" alt="databases-icons" style="width: 100%;"/> | <img src="https://skillicons.dev/icons?i=docker,aws,nginx" alt="devops-icons" style="width: 100%;"/> |
 
 ## 🔹 Tools I Use
 
@@ -46,7 +107,7 @@
 |-----------|
 | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools-icons" style="width: 100%;"/> |
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> Competitive Programming Profiles
 
 <table width="100%">
   <tr>
@@ -54,42 +115,30 @@
       <table width="100%">
         <tr>
           <th align="left">Platform</th>
-          <th align="left">Profile Link</th>
-          <th align="center">Image</th>
+          <th align="left">Profile</th>
+          <th align="center">Stats</th>
         </tr>
         <tr>
           <td>Codeforces</td>
           <td><a href="https://codeforces.com/profile/Iktear">Profile</a></td>
-          <td align="center">
-            <a href="https://codeforces.com/profile/Iktear">
-              <img src="https://i.ibb.co/bmz0Z6C/Untitled-design-removebg-preview.png" alt="Codeforces" width="24" />
-            </a>
-          </td>
+          <td align="center">Max: 1183 | 650+</td>
         </tr>
         <tr>
           <td>LeetCode</td>
           <td><a href="https://leetcode.com/u/iktear500/">Profile</a></td>
-          <td align="center">
-            <a href="https://leetcode.com/u/iktear500/">
-              <img src="https://i.ibb.co/PrNnHzz/Untitled-design-2-removebg-preview.png" alt="LeetCode" width="24" />
-            </a>
-          </td>
+          <td align="center">220+ Solved</td>
         </tr>
         <tr>
           <td>CodeChef</td>
           <td><a href="https://www.codechef.com/users/iktear1">Profile</a></td>
-          <td align="center">
-            <a href="https://www.codechef.com/users/iktear1">
-              <img src="https://i.ibb.co/bbWxB0s/Untitled-design-4-removebg-preview.png" alt="CodeChef" width="24" />
-            </a>
-          </td>
+          <td align="center">Max: 1471 | 2★</td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub Stats
 
 <table align="center">
   <tr>
@@ -112,7 +161,7 @@
   </tr>
 </table>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> :trophy: Git Profile Trophies </h3></summary>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=MuhammadIktear&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="MuhammadIktear" />
@@ -120,13 +169,24 @@
   </p>
 </details>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.iktear.52/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iktear-5621b6218/) [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktear500@gmail.com)
+## 📞 Connect With Me
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.iktear.52/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iktear-5621b6218/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktear500@gmail.com)
 
 <div align="center">
-  <p>Resume : https://drive.google.com/file/d/1RvD-jeJ_ePUgcYawN4wnsMVvqIJViqeP/view?usp=sharing</p>
+  <p>📄 Resume: https://drive.google.com/file/d/1RvD-jeJ_ePUgcYawN4wnsMVvqIJViqeP/view?usp=sharing</p>
 </div>
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> My Dedication
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=6.5%> My Dedication
 
-- 🥅 Goals: To become a highly skilled software developer and competitive programmer, contributing to meaningful projects and continuously learning.
+- 🥅 **Goals:** To become a highly skilled backend developer specializing in scalable systems and distributed architecture
+- 💡 **Philosophy:** Continuous learning and applying problem-solving skills from competitive programming to real-world software challenges
+- 🌟 **Vision:** Contributing to meaningful projects that solve real-world problems through technology
 
+---
+
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/MuhammadIktear">MuhammadIktear</a></p>
+</div>
