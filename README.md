@@ -44,15 +44,23 @@
 
 ## 🏆 Achievements & Competitions
 
-### **Competitions**
+## 🏆 Achievements & Competitions 
+
 - **Champion** - DIU Spring Fest Programming Contest 2024 | Team: Segmentation_fault
 - **Runners-up** - DIU Fall Fest Project Showcasing 2024
-- **YCPC Grand Final 2025** - Rank 23 / 257 (Solo)
-- **ICPC Dhaka Regional 2025** - Rank 207 / 313 | Team: DIU_Infinity
-- **ICPC Preliminary Dhaka 2024** - Rank 538 / 2600 | Team: DIU_CodeCrew
-- **IUPC 2025** - Multiple onsite participations with teams DIU_CodeCrew & DIU_Infinity
-- **NSU Tech Fest Hackathon 2025** | Team: PhilPy
-- **MIST Hackathon 2025** | Team: PhilPy
+- **YCPC Grand Final 2025** - Rank 23 out of 257 (Solo Contest)
+- **ICPC Dhaka Regional 2025** - Rank 207 out of 313 teams | Team: DIU_Infinity
+- **ICPC Preliminary Dhaka 2024** - Rank 538 out of 2600 teams | Team: DIU_CodeCrew
+- **UIU IUPC 2025 Onsite** - Rank 60 out of 160 teams | Team: DIU_CodeCrew
+- **KUET IUPC 2025 Onsite** - Rank 124 out of 160 teams | Team: DIU_CodeCrew
+- **AUST IUPC 2025 Onsite** - Rank 102 out of 130 teams | Team: DIU_CodeCrew
+- **DUET IUPC 2025 Onsite** - Rank 98 out of 131 teams | Team: DIU_CodeCrew
+- **UU IUPC 2025 Onsite** - Rank 103 out of 115 teams | Team: DIU_CodeCrew
+- **CUET IUPC 2025 Onsite** - Rank 107 out of 130 teams | Team: DIU_Infinity
+- **MU IUPC 2025 Onsite** - Rank 77 out of 91 teams | Team: DIU_Infinity
+- **ICPC Preliminary Dhaka Site 2024 Mock** - Rank 220 out of 2488 teams | Team: DIU_CodeCrew
+- **Participant** - NSU Tech Fest Hackathon 2025 | Team: PhiPy
+- **Participant** - MIST Hackathon 2025 | Team: PhiPy
 
 ### **Competitive Programming**
 - **Solved 1000+ problems** across Mathematics, Greedy, Linked List, Stack, Queue, Tree, Graph, Dynamic Programming, Backtracking
